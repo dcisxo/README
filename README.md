@@ -19,6 +19,8 @@ Full-stack developer and TripleTen Software Engineering graduate. I enjoy buildi
 
 ## � Table of Contents
 
+**School Projects**
+
 1. [Triple Peaks Library](#triple-peaks-library)
 2. [Triple Peaks Coffee Shop](#triple-peaks-coffee-shop)
 3. [Simple Todo App](#simple-todo-app)
@@ -26,6 +28,8 @@ Full-stack developer and TripleTen Software Engineering graduate. I enjoy buildi
 5. [WTWR — What to Wear?](#wtwr--what-to-wear)
 6. [WTWR Backend](#wtwr-backend)
 7. [HireRank](#hirerank)
+
+**Freelance** 8. [iListTech Landing Page](#ilisttech-landing-page)
 
 ---
 
@@ -98,6 +102,17 @@ A hiring platform where teams post jobs, review applicants, and score candidates
 
 ---
 
-## 📫 Connect
+## � Freelance
+
+### iListTech Landing Page
+
+A landing page built for iListTech as a paid freelance project.
+
+- **Demo:** [Watch on Loom](https://www.loom.com/share/58263bf6b70741d68078f1a41e387b46)
+- **Stack:** HTML · CSS
+
+---
+
+## �📫 Connect
 
 - **GitHub:** [github.com/dcisxo](https://github.com/dcisxo)
