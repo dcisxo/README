@@ -17,39 +17,84 @@ Full-stack developer and TripleTen Software Engineering graduate. I enjoy buildi
 
 ---
 
+## � Table of Contents
+
+1. [Triple Peaks Library](#triple-peaks-library)
+2. [Triple Peaks Coffee Shop](#triple-peaks-coffee-shop)
+3. [Simple Todo App](#simple-todo-app)
+4. [Spots](#spots)
+5. [WTWR — What to Wear?](#wtwr--what-to-wear)
+6. [WTWR Backend](#wtwr-backend)
+7. [HireRank](#hirerank)
+
+---
+
 ## 🚀 Projects
 
-### [HireRank](https://github.com/dcisxo/se_project_final) — Full-Stack Applicant Tracking System
+### Triple Peaks Library
 
-A hiring platform where teams post jobs, review applicants, and score candidates using a built-in GitHub profile scoring engine.
+The first project in the TripleTen Software Engineering program — a static library website built from a design brief using semantic HTML and CSS.
 
-- **Live:** [http://34.58.5.203](http://34.58.5.203)
-- **Stack:** React · Node.js · Express · MongoDB · JWT · Google Cloud
+- **Repo:** [github.com/dcisxo/se_project_library](https://github.com/dcisxo/se_project_library)
+- **Stack:** HTML · CSS · Flexbox · BEM
 
-### [WTWR — What to Wear?](https://github.com/dcisxo/se_project_react) — Weather Clothing App
+---
 
-Real-time weather app that recommends clothing based on current temperature, with a personal wardrobe manager.
-
-- **Live:** [globalwear.h-o-s-t.name](https://globalwear.h-o-s-t.name)
-- **Stack:** React · Vite · OpenWeatherMap API · CSS
-
-### [WTWR Backend](https://github.com/dcisxo/se_project_express) — REST API & Auth Server
-
-The Express/MongoDB API powering the WTWR app, featuring JWT authentication, user management, and clothing item CRUD.
-
-- **Stack:** Node.js · Express · MongoDB · Mongoose · JWT
-
-### [Spots](https://github.com/dcisxo/se_project_spots) — Image Sharing Site
-
-A social image-sharing platform for posting and browsing photos across a community feed.
-
-- **Stack:** HTML · CSS · BEM · Flexbox · Responsive Design
-
-### [Triple Peaks Coffee Shop](https://github.com/dcisxo/se_project_coffeeshop) — Static Café Website
+### Triple Peaks Coffee Shop
 
 A polished, animated café website built from a Figma design brief.
 
+- **Repo:** [github.com/dcisxo/se_project_coffeeshop](https://github.com/dcisxo/se_project_coffeeshop)
 - **Stack:** HTML · CSS · Animations · BEM
+
+---
+
+### Simple Todo App
+
+A to-do application for tracking daily tasks and setting deadlines.
+
+- **Repo:** [github.com/dcisxo/se_project_todo-app](https://github.com/dcisxo/se_project_todo-app)
+- **Live:** [dcisxo.github.io/se_project_todo-app](https://dcisxo.github.io/se_project_todo-app/)
+- **Stack:** HTML · CSS · JavaScript · BEM
+
+---
+
+### Spots
+
+A social image-sharing platform for posting and browsing photos across a community feed.
+
+- **Repo:** [github.com/dcisxo/se_project_spots](https://github.com/dcisxo/se_project_spots)
+- **Live:** [dcisxo.github.io/se_project_spots](https://dcisxo.github.io/se_project_spots/)
+- **Stack:** HTML · CSS · BEM · Flexbox · Responsive Design
+
+---
+
+### WTWR — What to Wear?
+
+Real-time weather app that recommends clothing based on current temperature, with a personal wardrobe manager.
+
+- **Repo:** [github.com/dcisxo/se_project_react](https://github.com/dcisxo/se_project_react)
+- **Live:** [globalwear.h-o-s-t.name](https://globalwear.h-o-s-t.name)
+- **Stack:** React · Vite · OpenWeatherMap API · CSS
+
+---
+
+### WTWR Backend
+
+The Express/MongoDB API powering the WTWR app, featuring JWT authentication, user management, and clothing item CRUD.
+
+- **Repo:** [github.com/dcisxo/se_project_express](https://github.com/dcisxo/se_project_express)
+- **Stack:** Node.js · Express · MongoDB · Mongoose · JWT
+
+---
+
+### HireRank
+
+A hiring platform where teams post jobs, review applicants, and score candidates using a built-in GitHub profile scoring engine.
+
+- **Repo:** [github.com/dcisxo/se_project_final](https://github.com/dcisxo/se_project_final)
+- **Live:** [http://34.58.5.203](http://34.58.5.203)
+- **Stack:** React · Node.js · Express · MongoDB · JWT · Google Cloud
 
 ---
 
